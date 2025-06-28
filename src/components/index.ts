@@ -1,0 +1,10 @@
+export { default as Hero } from './hero';
+export { default as Services } from './services';
+export { default as Gallery } from './gallery';
+export { default as Crew } from './crew';
+export { default as Reviews } from './reviews';
+export { default as Hours } from './hours';
+export { default as WalkIns } from './walkins';
+export { default as Info } from './info';
+export { default as Navbar } from './shared/Navbar';
+export { default as Footer } from './shared/Footer'; 
